@@ -10,11 +10,11 @@ Consulter l’espace admin
 
 Pour appliquer les modification a les tables de la base de données
 Python manage.py makemigrations
-Python manage.py mirate
+Python manage.py migrate
 
 
 
 
 Pour lancer le frontend 
 Cd frontend 
-Nom start 
+Npm start 
